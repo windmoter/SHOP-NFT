@@ -23,10 +23,13 @@ Klaytn ERC721 BApp
 > node 버전: 16.13.0
 
 > npm 버전: 8.1.4
-
+    
 > truffle 버전: 5.1.23
+    truffle 설치 시 종속된 프로그램 설치 해야 함
 
+    https://breaker300.tistory.com/6
 > solidity 버전: 0.5.16
+
 
 ## 강좌 URL
 
